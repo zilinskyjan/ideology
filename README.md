@@ -6,7 +6,7 @@ It is also useful to estimate where people stand over time, because only some po
 
 In early 2020, I used the first release of the Nationscape dataset to place U.S. respondents on two dimensions, and make this chart:
 
-![](Nationscape/Nationscape_2dimensions_2019.png)
+![NS2019](Nationscape/Nationscape_2dimensions_2019.png)
 
 ## Nationscape
 
