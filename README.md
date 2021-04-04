@@ -1,5 +1,13 @@
 # Ideal points, ideological cleavages, and other quantities 
 
+To better understand perceived and actual axes of political conflict, it is useful to know on which issues Americans agree and disagree.
+
+It is also useful to estimate where people stand over time, because only some positions are deeply held. Other issues emerge when they are strategically activated, tied to existing values in the electorate, or simply because the world is changing. 
+
+In early 2020, I used the first release of the Nationscape dataset to place U.S. respondents on two dimensions, and make this chart:
+
+![](Nationscape/Nationscape_2dimensions_2019.png)
+
 ## Nationscape
 
 ### Cultural and social issues
