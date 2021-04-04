@@ -62,3 +62,16 @@
 | Against government insurance for immigrants                                                         | immigration_insurance==2  |
 | Charge immigrants who entered illegally with a crime                                                | criminal_immigration==1   |
 
+### Issued not used for analysis
+
+There were 2 questions about the militrary, and a question on drug legalization, that were not included in the scales that I calculated.
+
+Additionally, the following questions about asking about support COVID-related policies were also excluded:
+
+- Increase spending on unemployment insurance
+- Increase spending on health insurance and food aid for the poor
+- Require employers to provide additional leave if an employee is quarantined or has to care for a family member with the coronavirus
+- Reduce interest rates
+- Send individual Americans a cash payment
+- Provide financial support for the airline industry
+- Provide financial support for local businesses
