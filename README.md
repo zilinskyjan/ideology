@@ -10,6 +10,8 @@ In early 2020, I used the first release of the Nationscape dataset to place U.S.
 
 ## Nationscape
 
+Below I list the variable names and descriptions. The culatural/social and economic views were converted into scales with an IRT-2PL model. 
+
 ### Cultural and social issues
 
 | Attitude/Opinion                                             | coding                 |
@@ -57,6 +59,10 @@ In early 2020, I used the first release of the Nationscape dataset to place U.S.
 
 ### Immigration
 
+An immigration scale (not shown in the figure above) was calculated separately.
+
+The available variables are listed here to help anyone interested using the data:
+
 | Attitude/Opinion                                                                                    | coding                    |
 |-----------------------------------------------------------------------------------------------------|---------------------------|
 | Against a path to citizenship for undocumented immigrants brought here as children                  | dreamers==2               |
@@ -72,9 +78,9 @@ In early 2020, I used the first release of the Nationscape dataset to place U.S.
 
 ### Issued not used for analysis
 
-There were 2 questions about the militrary, and a question on drug legalization, that were not included in the scales that I calculated.
+There were also 2 questions about the militrary, and a question on drug legalization, that were not included in the scales that I calculated.
 
-Additionally, the following questions about asking about support COVID-related policies were also excluded:
+Additionally, the following questions about support COVID-related policies were also excluded in the second release of the Nationscape data:
 
 - Increase spending on unemployment insurance
 - Increase spending on health insurance and food aid for the poor
